@@ -1,0 +1,36 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package com.mycompany.ejerciciosextra;
+
+/**
+ *
+ * @author juana
+ */
+public class Ejercicio2 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // Declarar cuatro variables de tipo entero A, B, C y D y asignarle un valor diferente a cada
+       //una. A continuación, realizar las instrucciones necesarias para que: B tome el valor de C, C tome el valor de A, A tome el valor de D y D      //tome el valor de B. Mostrar los valores
+        //iniciales y los valores finales de cada variable. Utilizar sólo una variable auxiliar.
+        int A =5;
+        int B =6;
+        int C = 7;
+        int D =8;
+        int aux;
+        
+        aux = B;
+        B = C;
+        C = A;
+        A = D;
+        D = aux;
+        
+        
+        System.out.println("La variable A tiene el valor " +A+ " la variable B tiene el valor " +B+ " la C tiene el valor " +C+ " y la D tiene el valor " +D);
+    }
+    
+}

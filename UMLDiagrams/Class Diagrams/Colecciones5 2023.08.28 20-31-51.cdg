@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Colecciones5">
+  <ClassDiagramComponents>
+    <Class name="Pais" package="Entidades" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="nombre" type="String" visibility="package"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="String" name="nombre"/>
+        </Constructor>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="getNombre" returnType="String" visibility="public"/>
+        <Method name="setNombre" returnType="void" visibility="public">
+          <Argument type="String" name="nombre"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="ServicioPais" package="Servicio" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields>
+        <Field name="paises" type="HashSet&lt;Pais&gt;" visibility="package"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="agregarAlgunos" returnType="void" visibility="public"/>
+        <Method name="registrarNuevoPais" returnType="void" visibility="public"/>
+        <Method name="mostrarPaises" returnType="HashSet&lt;Pais&gt;" visibility="public"/>
+        <Method name="ordenarPaises" returnType="void" visibility="public"/>
+        <Method name="removerPais" returnType="void" visibility="public">
+          <Argument type="String" name="pais"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations>
+    <HasRelation name="paises" source="Servicio.ServicioPais" target="Entidades.Pais" type="Aggregation" sourceCardinality="1..1" targetCardinality="0..*" collectionType="HashSet&lt;Pais&gt;"/>
+    <UseRelation source="Servicio.ServicioPais" target="Entidades.Pais" sourceCardinality="1..1" targetCardinality="1..1"/>
+  </ClassDiagramRelations>
+</ClassDiagram>

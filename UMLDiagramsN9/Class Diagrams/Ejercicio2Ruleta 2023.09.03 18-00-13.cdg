@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Ejercicio2Ruleta">
+  <ClassDiagramComponents>
+    <Class name="RevolverDeAgua" package="Ejercicio2Ruleta" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="posicionActual" type="int" visibility="package"/>
+        <Field name="posicion" type="int" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="llenarRevolver" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

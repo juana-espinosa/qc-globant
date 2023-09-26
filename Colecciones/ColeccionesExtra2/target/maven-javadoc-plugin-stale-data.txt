@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/juana/OneDrive/Documentos/NetBeansProjects/ColeccionesExtra2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/juana/OneDrive/Documentos/NetBeansProjects/ColeccionesExtra2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ColeccionesExtra2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ColeccionesExtra2 1.0-SNAPSHOT API'
+com.mycompany.coleccionesextra2
+Entidade
+Servicio
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\src\main\java = 1691448520235
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\allclasses-index.html = 1691624089816
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\allpackages-index.html = 1691624089822
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\copy.svg = 1691624089906
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\element-list = 1691624089641
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\help-doc.html = 1691624089897
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\index-all.html = 1691624089877
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\index.html = 1691624089785
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\member-search-index.js = 1691624089836
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\module-search-index.js = 1691624089825
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\overview-summary.html = 1691624089888
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\overview-tree.html = 1691624089776
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\package-search-index.js = 1691624089828
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\script.js = 1691624089902
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\search-page.js = 1691624089913
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\search.html = 1691624089884
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\search.js = 1691624089910
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\stylesheet.css = 1691624089901
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\tag-search-index.js = 1691624089838
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\ColeccionesExtra2\target\site\apidocs\type-search-index.js = 1691624089833

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Entidade","l":"CantanteFamoso"},{"p":"com.mycompany.coleccionesextra2","l":"ColeccionesExtra2"},{"p":"Servicio","l":"ServicioCantante"}];updateSearchResults();

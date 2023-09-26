@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/juana/OneDrive/Documentos/NetBeansProjects/POO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/juana/OneDrive/Documentos/NetBeansProjects/POO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POO 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'POO 1.0-SNAPSHOT API'
+com.mycompany.poo
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\src\main\java = 1686611003236
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\allclasses-index.html = 1686611084824
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\allpackages-index.html = 1686611084829
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\copy.svg = 1686611084886
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\element-list = 1686611084747
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\help-doc.html = 1686611084872
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\index-all.html = 1686611084855
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\index.html = 1686611084864
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\member-search-index.js = 1686611084836
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\module-search-index.js = 1686611084831
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\overview-tree.html = 1686611084806
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\package-search-index.js = 1686611084833
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\script.js = 1686611084881
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\search-page.js = 1686611084895
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\search.html = 1686611084861
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\search.js = 1686611084892
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\stylesheet.css = 1686611084877
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\tag-search-index.js = 1686611084839
+C:\Users\juana\OneDrive\Documentos\NetBeansProjects\POO\target\site\apidocs\type-search-index.js = 1686611084834

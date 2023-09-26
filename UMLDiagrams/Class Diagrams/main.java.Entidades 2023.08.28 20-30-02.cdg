@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="main.java.Entidades">
+  <ClassDiagramComponents>
+    <Class name="Ciudades" package="Entidades" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="ciudades" type="HashMap&lt;Integer, String&gt;" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="agregarDefectos" returnType="void" visibility="public"/>
+        <Method name="agregarCiudades" returnType="void" visibility="public"/>
+        <Method name="mostrarCiudades" returnType="void" visibility="public"/>
+        <Method name="encontrarCiudad" returnType="void" visibility="public"/>
+        <Method name="removerCiudades" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
